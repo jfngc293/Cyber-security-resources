@@ -34,6 +34,7 @@ Credits are also included for some google docs
 ---
 
 ## Web Pentesting
+ - #### [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://www.youtube.com/watch?v=X4eRbHgRawI)
  - #### [Burp Suite Essentials](https://www.youtube.com/playlist?list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3)
  - #### [SQL Injection](https://portswigger.net/web-security/sql-injection)
  - #### [Template Injection Workshop](https://gosecure.github.io/template-injection-workshop/#0 "https://gosecure.github.io/template-injection-workshop/#0")
