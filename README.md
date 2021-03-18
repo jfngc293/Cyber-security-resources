@@ -10,10 +10,10 @@ Credits are also included for some google docs
 
 - #### [Networking](#Networking)
 - #### [Web Pentesting](#Web-Pentesting)
-- #### Binary expolitation
-- #### Hacking Sites
-- #### Programming 
-- #### Active Directory
+- #### [Binary expolitation](#Binary-Exploitation)
+- #### [Practice Sites](#Practice-Sites)
+- #### [Programming](#Programming)
+- #### [Active Directory](#Active-Directory)
 - #### Random resources
 - #### Buffer Overflows
 - #### Cheat sheets
@@ -44,14 +44,16 @@ Credits are also included for some google docs
 
 ---
 
-## Binary expolitation
+## Binary-Expolitation
 - #### [Pwn College ](https://pwn.college/modules/intro "https://pwn.college/modules/intro")
 - #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html "https://opensecuritytraining.info/IntroX86.html")
 
 ---
 
-## Hacking Sites
+## Practice-Sites
 - #### [List of *hackable* sites](https://razvioverflow.github.io/starthacking)
+- #### [TryHackMe](https://tryhackme.com)
+- #### [HackTheBox](https://hackthebox.eu)
 
 ---
 
@@ -60,7 +62,7 @@ Credits are also included for some google docs
 
 --- 
 
-## Active Directory	
+## Active-Directory	
 - #### [Active Directory Security](https://adsecurity.org/)
 
 ## Random resources
