@@ -20,6 +20,7 @@ Credits are also included for some google docs
 ---
 
  ## Networking
+- #### [What is Computer Networking](https://www.lifewire.com/what-is-computer-networking-816249)
 - #### [Networking Fundamentals (netacad)](https://www.netacad.com/courses/networking/networking-essential)
 - #### [The Five Pillars of an Information/Cyber Security Professional](https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md "https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md")
 
