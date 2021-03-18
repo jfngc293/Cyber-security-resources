@@ -8,12 +8,12 @@ Credits are also included for some google docs
 
 ### Index
 
-- #### [Networking](#Networking)
-- #### [Web Pentesting](#Web-Pentesting)
-- #### [Binary expolitation](#Binary-Exploitation)
-- #### [Practice Sites](#Practice-Sites)
-- #### [Programming](#Programming)
-- #### [Active Directory](#Active-Directory)
+- #### Networking
+- #### Web Pentesting
+- #### Binary expolitation
+- #### Practice Sites
+- #### Programming
+- #### Active Directory
 - #### Random resources
 - #### Buffer Overflows
 - #### Cheat sheets
