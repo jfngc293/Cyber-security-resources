@@ -77,7 +77,32 @@ Credits are also included for some google docs
 ---
 
 ## Programming
+
+Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
+	### C++
+	 - #### [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
+	 - ####[C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) 
+	 - #### [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM) - The Bad Tutorials
+	 - #### [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane - (freeCodeCamp)
+	 - #### [Google's C++ Course](https://developers.google.com/edu/c++/)
+	 - #### [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
+	 - #### Microsoft edX Courses:
+	    - #### [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
+	    - ####[Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
+	    - #### [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
+
+	### C
+		- #### [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
+		- #### [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
+		- #### [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+		- #### [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
+	
+	### C#
+		- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
+		- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
+		- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
+	
 
 --- 
 
