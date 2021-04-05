@@ -93,15 +93,15 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	    - #### [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
 
 	### C
-		- #### [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
-		- #### [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
-		- #### [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
-		- #### [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
+	- #### [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
+	- #### [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
+	- #### [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+	- #### [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 	
 	### C#
-		- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
-		- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
-		- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
+	- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
+	- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
+	- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 	
 
 --- 
